@@ -1,6 +1,7 @@
 {
   "name": "knowledge_of_lb",
   "version": "1.0.0",
+  "type": "module",
   "description": "Personal knowledge blog by Liu Bo",
   "scripts": {
     "docs:dev": "vitepress dev docs",
