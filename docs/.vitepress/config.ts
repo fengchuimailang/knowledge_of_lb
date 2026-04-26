@@ -5,9 +5,6 @@ export default defineConfig({
   description: 'Personal knowledge blog by Liu Bo - Coding, Gaming, Startup',
   srcDir: '.',
   base: '/knowledge_of_lb/',
-  head: [
-    ['link', { rel: 'icon', href: '/knowledge_of_lb/favicon.ico' }]
-  ],
   lang: 'zh-CN',
   ignoreDeadLinks: true,
   themeConfig: {
