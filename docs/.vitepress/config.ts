@@ -20,6 +20,7 @@ export default defineConfig({
         {
           text: '游戏开发',
           items: [
+            { text: 'Cocos 包体优化', link: '/gaming/cocos/package-optimization/' },
             { text: 'Cocos Creator', link: '/gaming/cocos/' },
             { text: '游戏设计', link: '/gaming/design/' }
           ]
