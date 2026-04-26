@@ -38,6 +38,7 @@ export default defineConfig({
         {
           text: 'AI 与效率',
           items: [
+            { text: 'LLM 知识库构建术', link: '/ai/knowledge-base/' },
             { text: 'LLM 使用', link: '/ai/llm/' },
             { text: '自动化', link: '/ai/automation/' }
           ]
