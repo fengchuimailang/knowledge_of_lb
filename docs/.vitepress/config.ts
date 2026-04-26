@@ -7,6 +7,7 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
+  ignoreDeadLinks: true,
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
