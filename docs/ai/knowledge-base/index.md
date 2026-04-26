@@ -1,3 +1,7 @@
+---
+date: 2026-04-26
+---
+
 # LLM 知识库构建术
 
 > 翻译整理自 Andrej Karpathy 2026年4月3日 Twitter/X

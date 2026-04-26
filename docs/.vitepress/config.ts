@@ -56,6 +56,13 @@ export default defineConfig({
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/fengchuimailang' }
-    ]
+    ],
+    lastUpdated: {
+      text: '最后更新于',
+      formatOptions: {
+        dateStyle: 'medium',
+        timeStyle: 'short'
+      }
+    }
   }
 })
